@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elisa.iml" filepath="$PROJECT_DIR$/.idea/modules/elisa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elisa-build.iml" filepath="$PROJECT_DIR$/.idea/modules/elisa-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elisa.iml" filepath="$PROJECT_DIR$/Elisa.iml" />
     </modules>
   </component>
 </project>
